@@ -9,7 +9,7 @@
     --body-font-family: 'Halant', sans-serif;
     --cursive-font-family: 'Alex Brush', cursive;
 
-    --main-color: #d46466;
+    --main-color: #722f37;
     --secondary-color: #eec79b;
     --third-color: #D5A184;
     --fourth-color: #a4a4a4;
@@ -30,7 +30,7 @@
     --btn-border-width: 2px;
     --btn-border-style: solid;
     --btn-dark-background-color: #eec79b;
-    --btn-dark-hover-background-color: #d46466;
+    --btn-dark-hover-background-color: #722f37;
     --btn-light-background-color: rgba(0,0,0,0);
     --btn-light-hover-background-color: rgba(255,255,255,0.3);
     --btn-dark-border-color: rgba(0,0,0,0.1);
@@ -41,7 +41,7 @@
     --titles-bg-color: rgba(255,255,255,0);
     --titles-border-color: rgba(0,0,0,0.1);
     --titles-border-width: 0px;
-    --titles-font-color: #d46466;
+    --titles-font-color: #722f37;
     --titles-font-size: 38px;
     --titles-font-rem-size: 2rem;
 
